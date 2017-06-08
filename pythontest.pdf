@@ -1,0 +1,34 @@
+Python Test:
+1.Convert a list to a string
+# list of strings
+L = ["Imagination", "is", "more", "important", "than", "knowledge"]
+
+2. What is Mutable and Immutable object ?Explain with Example of each
+3. Here is a text, astronomical jokes. Write a code that spits out 'n' most common words with its frequency. We may want to use 'collections' container.
+astro_jokes = """
+1. A Higgs boson goes into a church and the priest says, 
+"We don't allow Higgs bosons here." And the Higgs boson says, "But without me there is no mass."
+
+2. A photon walks into a bar and orders a drink. 
+The bartender says, "Do you want a double?"
+And the photon says, "No I'm traveling light."
+
+4. List of anagrams from a list of words
+Create a anagram list from a list of words.
+words = ['fired', 'alert', 'remain', 'alter', 'allergy', 'gallery',
+         'abets', 'baste', 'fried', 'beast', 'beats']
+Or  Palindrome code check Words or Numeric both
+
+5.W.A.P to convert alternative characters to Upper case.
+String = “This Is String As input Given to Convert”
+6.W.A.P to generate square of even numbers between range user provides as input .
+7. Explain : Tuple , String ,List , Dictionary
+8. List all features of Python
+9.input=python_is_123@testmail.com&login=”hello”&pass=”123456”&login=”hi”&pass=”157952”
+*Print only passwords and login name separately.
+10. W.A.P to accept website URL , login name, password from command line .
+* Validate password with value 123456 if it is correct print respective message.
+*Print only  domain of website(.com or .org)
+
+
+
